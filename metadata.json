@@ -1,0 +1,35 @@
+{
+  "meta": {
+    "build": {
+      "build-date": "2025-01-30",
+      "codified-date": "2024-03-13",
+      "platform": {
+        "reproducible": "true",
+        "version": "2.15.0"
+      },
+      "publication": "publication/2025-01-30",
+      "repositories": [
+        {
+          "commit": "e36aa0551756024deb6c8ac60be05d89ceb9a403",
+          "name": "baltimore-legref/law-xml"
+        },
+        {
+          "commit": "80fabcff997fbc5ee22b06ee3c5f293d9307e44f",
+          "name": "baltimore-legref/law-xml-codified"
+        }
+      ]
+    },
+    "canonical-urls": {
+      "html": "https://codes.baltimorecity.gov",
+      "html-bulk": "https://github.com/baltimore-legref/law-html",
+      "law-git": "https://github.com/baltimore-legref/law.git",
+      "static-assets": "https://github.com/baltimore-legref/law-static-assets",
+      "xml-bulk": "https://github.com/baltimore-legref/law-xml"
+    },
+    "contact": {
+      "email": "help@openlawlib.org"
+    },
+    "description": "",
+    "history-start": "2024-03-13"
+  }
+}
