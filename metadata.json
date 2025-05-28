@@ -1,23 +1,26 @@
 {
   "meta": {
     "build": {
-      "build-date": "2025-05-01",
-      "codified-date": "2025-03-06",
+      "build-date": "2025-05-28",
+      "codified-date": "2025-05-01",
       "platform": {
         "reproducible": "true",
-        "version": "2.15.19"
+        "version": "2.16.0"
       },
       "publication": "publication/2025-05-01",
       "repositories": [
         {
-          "commit": "b1a886d8eaa5e2382f998924c7068aab60d82b58",
+          "commit": "20c2b7000281fdd8cc753ecbee27e32848141113",
           "name": "baltimore-legref/law-xml"
         },
         {
-          "commit": "13d48744b96377aa959e2baa684251625db8b22d",
+          "commit": "cd9e729a42ab513f5956a42346193d30b3272ff0",
           "name": "baltimore-legref/law-xml-codified"
         }
-      ]
+      ],
+      "search": {
+        "version": "v2"
+      }
     },
     "canonical-urls": {
       "html": "https://codes.baltimorecity.gov",
