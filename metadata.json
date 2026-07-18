@@ -2,7 +2,7 @@
   "meta": {
     "build": {
       "build-date": "2026-07-18",
-      "codified-date": "2025-07-15",
+      "codified-date": "2025-07-30",
       "platform": {
         "reproducible": "false",
         "version": "2.21.3"
@@ -14,7 +14,7 @@
           "name": "baltimore-legref/law-xml"
         },
         {
-          "commit": "328d71b86e51d40e4c87f38a1b655e1b3388b468",
+          "commit": "6d226816351ec26681a17f70c4b756f68da422f6",
           "name": "baltimore-legref/law-xml-codified"
         }
       ],
